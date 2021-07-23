@@ -1,0 +1,16 @@
+C:\Users\JOÃO_FERREIRA\Desktop\DIO\6- APP CADASTRO\CADASTRO\bin\Debug\net5.0\CADASTRO.exe
+C:\Users\JOÃO_FERREIRA\Desktop\DIO\6- APP CADASTRO\CADASTRO\bin\Debug\net5.0\CADASTRO.deps.json
+C:\Users\JOÃO_FERREIRA\Desktop\DIO\6- APP CADASTRO\CADASTRO\bin\Debug\net5.0\CADASTRO.runtimeconfig.json
+C:\Users\JOÃO_FERREIRA\Desktop\DIO\6- APP CADASTRO\CADASTRO\bin\Debug\net5.0\CADASTRO.runtimeconfig.dev.json
+C:\Users\JOÃO_FERREIRA\Desktop\DIO\6- APP CADASTRO\CADASTRO\bin\Debug\net5.0\CADASTRO.dll
+C:\Users\JOÃO_FERREIRA\Desktop\DIO\6- APP CADASTRO\CADASTRO\bin\Debug\net5.0\ref\CADASTRO.dll
+C:\Users\JOÃO_FERREIRA\Desktop\DIO\6- APP CADASTRO\CADASTRO\bin\Debug\net5.0\CADASTRO.pdb
+C:\Users\JOÃO_FERREIRA\Desktop\DIO\6- APP CADASTRO\CADASTRO\obj\Debug\net5.0\CADASTRO.csprojAssemblyReference.cache
+C:\Users\JOÃO_FERREIRA\Desktop\DIO\6- APP CADASTRO\CADASTRO\obj\Debug\net5.0\CADASTRO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOÃO_FERREIRA\Desktop\DIO\6- APP CADASTRO\CADASTRO\obj\Debug\net5.0\CADASTRO.AssemblyInfoInputs.cache
+C:\Users\JOÃO_FERREIRA\Desktop\DIO\6- APP CADASTRO\CADASTRO\obj\Debug\net5.0\CADASTRO.AssemblyInfo.cs
+C:\Users\JOÃO_FERREIRA\Desktop\DIO\6- APP CADASTRO\CADASTRO\obj\Debug\net5.0\CADASTRO.csproj.CoreCompileInputs.cache
+C:\Users\JOÃO_FERREIRA\Desktop\DIO\6- APP CADASTRO\CADASTRO\obj\Debug\net5.0\CADASTRO.dll
+C:\Users\JOÃO_FERREIRA\Desktop\DIO\6- APP CADASTRO\CADASTRO\obj\Debug\net5.0\ref\CADASTRO.dll
+C:\Users\JOÃO_FERREIRA\Desktop\DIO\6- APP CADASTRO\CADASTRO\obj\Debug\net5.0\CADASTRO.pdb
+C:\Users\JOÃO_FERREIRA\Desktop\DIO\6- APP CADASTRO\CADASTRO\obj\Debug\net5.0\CADASTRO.genruntimeconfig.cache
